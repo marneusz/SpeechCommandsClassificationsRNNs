@@ -25,9 +25,7 @@ Useful resources:
 
 https://www.kaggle.com/davids1992/speech-representation-and-data-exploration
 
-https://towardsdatascience.com/recognizing-speech-commands-using-recurrent-neural-
-
-networks-with-attention-c2b2ba17c837
+https://towardsdatascience.com/recognizing-speech-commands-using-recurrent-neural-networks-with-attention-c2b2ba17c837
 
 https://www.coursera.org/lecture/nlp-sequence-models/recurrent-neural-network-model- ftkzt
 
