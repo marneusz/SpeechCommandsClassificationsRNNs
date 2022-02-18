@@ -2,7 +2,7 @@
 
 Speech commands classification with recurrent neural networks
 
-
+The file `Speech_commands_classification_with_recurrent_neural_networks.pdf` is the report explaining used architectures, showing obtained results and comparisons.
 
 
 Dataset: Speech Commands Dataset
